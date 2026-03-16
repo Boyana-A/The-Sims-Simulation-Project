@@ -8,6 +8,15 @@ This project simulates the dynamics of a family consisting of a mother, father, 
 
 The simulation models how employment, finances, and emotional states influence the long-term stability of the family.
 
+## Model Overview
+![Simulation Model](screenshots/simulation-model.png)
+
+## Simulation Run
+![Simulation Run](screenshots/simulation-run.gif)
+
+## Monte Carlo Experiment (100 iterations)
+![Monte Carlo](screenshots/monte-carlo-100-iterations.gif)
+
 ## Model Features
 
 - stochastic employment and unemployment periods
