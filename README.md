@@ -12,10 +12,10 @@ The simulation models how employment, finances, and emotional states influence t
 ![Simulation Model](screenshots/simulation-model.png)
 
 ## Simulation Run
-![Simulation Run](screenshots/simulation-run.gif)
+![Simulation Run](gifs/simulation-run.gif)
 
 ## Monte Carlo Experiment (100 iterations)
-![Monte Carlo](screenshots/monte-carlo-100-iterations.gif)
+![Monte Carlo](gifs/monte-carlo-100-iterations.gif)
 
 ## Model Features
 
